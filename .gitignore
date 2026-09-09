@@ -20,3 +20,8 @@ __pycache__/
 # Sistema operativo
 .DS_Store
 Thumbs.db
+
+
+# Datasets CSV
+dataset_banco_backup.csv
+dataset_banco_limpio.csv
